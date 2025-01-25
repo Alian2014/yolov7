@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>wind_damage (61).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\wind_damage (61).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>winddamage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>20</ymin>
+			<xmax>398</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

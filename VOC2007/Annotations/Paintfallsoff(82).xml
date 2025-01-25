@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Paintfallsoff	(82).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\Paintfallsoff	(82).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>969</width>
+		<height>727</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paintfallsoff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>319</ymin>
+			<xmax>488</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

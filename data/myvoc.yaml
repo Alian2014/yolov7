@@ -1,0 +1,10 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: E:/Learning/yolov7/VOC2007/dataSet_path/train.txt  # 251 images
+val: E:/Learning/yolov7/VOC2007/dataSet_path/val.txt  # 28 images
+test: E:/Learning/yolov7/VOC2007/dataSet_path/test.txt  # 31 images
+
+# number of classes
+nc: 6
+
+# class names
+names: ['winddamage', 'casingdamage', 'repairtrace', 'numberofwear', 'crack', 'paintfallsoff']

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Casingdamage (12).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\Casingdamage (12).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casingdamage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>938</xmin>
+			<ymin>456</ymin>
+			<xmax>994</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>crack (31).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\crack (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4344</width>
+		<height>5792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2453</xmin>
+			<ymin>3433</ymin>
+			<xmax>2815</xmax>
+			<ymax>3771</ymax>
+		</bndbox>
+	</object>
+</annotation>

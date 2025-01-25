@@ -1,0 +1,50 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Casingdamage (1).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\Casingdamage (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>casingdamage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1545</xmin>
+			<ymin>1067</ymin>
+			<xmax>2819</xmax>
+			<ymax>2060</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>casingdamage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1071</xmin>
+			<ymin>789</ymin>
+			<xmax>1293</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2022</xmin>
+			<ymin>2318</ymin>
+			<xmax>2390</xmax>
+			<ymax>2999</ymax>
+		</bndbox>
+	</object>
+</annotation>

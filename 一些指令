@@ -1,0 +1,6 @@
+python train.py --linear-lr --label-smoothing 0.1  --save_period 10
+python train.py --linear-lr --label-smoothing 0.1  --save_period 10 --resume
+
+python train.py --linear-lr   --save_period 10 --epochs 300
+
+tensorboard --logdir=runs/

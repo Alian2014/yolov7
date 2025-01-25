@@ -1,0 +1,1 @@
+winddamage, casingdamage, repairtrace, numberofwear, crack, paintfallsoff

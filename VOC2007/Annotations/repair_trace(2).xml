@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>repair_trace (2).jpg</filename>
+	<path>F:\work\python\DataAugmentation\dataaugmentation\allimages\repair_trace (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>590</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>repairtrace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>12</ymin>
+			<xmax>169</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
